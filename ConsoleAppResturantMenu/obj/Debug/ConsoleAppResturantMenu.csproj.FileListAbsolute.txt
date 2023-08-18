@@ -1,0 +1,16 @@
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\bin\Debug\ConsoleAppResturantMenu.exe.config
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\bin\Debug\ConsoleAppResturantMenu.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\bin\Debug\ConsoleAppResturantMenu.pdb
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.csproj.AssemblyReference.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.csproj.CoreCompileInputs.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.pdb
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\bin\Debug\ConsoleAppResturantMenu.exe.config
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\bin\Debug\ConsoleAppResturantMenu.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\bin\Debug\ConsoleAppResturantMenu.pdb
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.csproj.AssemblyReference.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.csproj.CoreCompileInputs.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\FIRST_YEAR\ConsoleAppResturantMenu\obj\Debug\ConsoleAppResturantMenu.pdb
